@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0060/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部七
+  hash: sha256:1b6640596a5064ea3fb39af388ca6b846d3ddcc674207e8493e72e4c4059763a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0060_WYG_000-1a, image: WYG0460/WYG0460-1125a.png}
+body:
+  text: 松亭行紀傳記𩔖四雜録之屬提要臣等謹案松亭行紀二卷國朝髙士竒撰康熙辛酉二月癸酉聖祖仁皇帝恭奉太皇太后行幸温泉四月戊子駕出喜峰口士竒皆扈從因記其往來所經謂喜峰口為古松亭闗故以名書然松亭闗在喜峰口外八十里士竒合而一之未詳攷也所述灤河源流亦不明􅃀至温泉有朱砂礬石硫黄三種聖祖御製㡬暇格物編中言之甚明士竒日侍禁闥典文翰之職不應不睹乃仍襲宋唐庚揣測之説殆不可解以其叙出山川風景足資考證而附載詩文亦皆可觀故所著塞北小抄别存其目而此編則仍録之焉乾隆四十六年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f4129c12d30dce174a4d771cd27f90693678290db8ed590f2829a1e53cf309b6
+metadata:
+  title: 松亭行紀
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:36:47.047998'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2g0060/KR2g0060_000.txt
+hash: sha256:8aa6ee7610cf594db0ba9e845494b15f18fb889a489ff143e471170bd2871352
